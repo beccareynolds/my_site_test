@@ -1,0 +1,13 @@
+---
+title: 'Lab 5: time series & a map'
+author: "Becca Reynolds"
+date: "2/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
